@@ -1,0 +1,895 @@
+
+## [2026-05-01T21:38:52.480678+05:30] SESSION START — Agent Run
+
+Agent: support-triage-agent
+Repo Root: C:\Users\rishu\OneDrive\Desktop\support_tickets
+Language: py
+Time: 2026-05-01T21:38:52.480702+05:30
+
+
+## [2026-05-01T21:39:35.866539+05:30] TICKET #3/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - PYB – Fraud Prevention
+  - Visa Credit Card Rules & Regulations
+  - Visa Consumer Support
+
+---
+
+
+## [2026-05-01T21:39:53.657207+05:30] TICKET #5/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Claude Code: Common developer use cases
+  - Using Claude with iOS Apps
+  - My prompt isn’t giving me a helpful answer.
+
+---
+
+
+## [2026-05-01T21:39:55.774425+05:30] TICKET #2/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Greenhouse-HackerRank Integration FAQs API Token and Access Tests and Interviews
+  - Mitigating Candidate Drop-Off
+  - Workday - HackerRank Tests User Guide
+
+---
+
+
+## [2026-05-01T21:39:58.450520+05:30] TICKET #1/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Use Google Workspace connectors
+  - Manage members on Team and Enterprise plans
+  - Set up role-based permissions on Enterprise plans
+
+---
+
+
+## [2026-05-01T21:40:11.001448+05:30] TICKET #6/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Early Talent
+  - Onboarding Candidates
+  - Best Practices to Maintain Test Integrity
+
+---
+
+
+## [2026-05-01T21:40:12.114466+05:30] TICKET #7/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - What is the External Researcher Access Program?
+  - Anthropic's AI for Science Program
+  - Enabling Outcome Data and Public Link with Greenhouse
+
+---
+
+
+## [2026-05-01T21:40:15.096177+05:30] TICKET #4/29
+
+Classification:
+  Status: replied
+  Product Area: community
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Subscriptions, Payments, and Billing FAQs Mock interviews Subscription plans
+  - Purchase Mock Interview Credits
+  - AI Fluency Mock Interview Prerequisites Taking AI Fluency mock interview Ending 
+
+---
+
+
+## [2026-05-01T21:40:19.554254+05:30] TICKET #9/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Claude Code FAQ
+  - Using Claude with iOS Apps
+  - Using Claude with Android Apps
+
+---
+
+
+## [2026-05-01T21:40:33.985212+05:30] TICKET #8/29
+
+Classification:
+  Status: replied
+  Product Area: screen
+  Request Type: product_issue
+
+Retrieved chunks:
+  - What is the External Researcher Access Program?
+  - Using Claude in Chrome Safely
+  - Claude in Chrome Permissions Guide
+
+---
+
+
+## [2026-05-01T21:40:34.493885+05:30] TICKET #12/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Using the Candid Connector in Claude
+  - Using Claude with iOS Apps
+  - Using Claude with Android Apps
+
+---
+
+
+## [2026-05-01T21:40:46.239528+05:30] TICKET #13/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - How can I create and manage projects?
+  - Using Claude with iOS Apps
+  - HackerRank Interview and Google Calendar Integration
+
+---
+
+
+## [2026-05-01T21:40:48.596255+05:30] TICKET #11/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Early Talent
+  - Introduction to HackerRank Interviews
+  - Professional Hire
+
+---
+
+
+## [2026-05-01T21:41:15.674181+05:30] TICKET #15/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Claude Code champion kit
+  - Get started with Claude Cowork
+  - I’m planning to launch a product using the Claude API. What steps should I take 
+
+---
+
+
+## [2026-05-01T21:41:19.089731+05:30] TICKET #14/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Pause Subscription
+  - How do I cancel my paid Claude subscription?
+  - Onboarding Candidates
+
+---
+
+
+## [2026-05-01T21:41:24.164746+05:30] TICKET #17/29
+
+Classification:
+  Status: replied
+  Product Area: community
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Create a Resume with Resume Builder
+  - Introduction to HackerRank Community
+  - Search and Apply for Jobs
+
+---
+
+
+## [2026-05-01T21:41:28.995183+05:30] TICKET #10/29
+
+Classification:
+  Status: escalated
+  Product Area: screen
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Mitigating Candidate Drop-Off
+  - What is the External Researcher Access Program?
+  - Using Claude with iOS Apps
+
+---
+
+
+## [2026-05-01T21:41:39.345097+05:30] TICKET #19/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Dispute Resolution
+  - Visa Consumer Support
+  - Requesting a refund for a paid Claude plan
+
+---
+
+
+## [2026-05-01T21:41:40.894644+05:30] TICKET #18/29
+
+Classification:
+  Status: replied
+  Product Area: community
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Certifications FAQs
+  - Getting started with Claude for Nonprofits
+  - SkillUp Employee Platform
+
+---
+
+
+## [2026-05-01T21:41:45.022343+05:30] TICKET #16/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Visa Consumer Support
+  - Visa Traveller's Cheques for Consumers
+  - Identity verification on Claude
+
+---
+
+
+## [2026-05-01T21:41:45.057988+05:30] TICKET #24/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: invalid
+
+Retrieved chunks:
+  - Give Claude context: CLAUDE.md and better prompts
+  - Use Google Workspace connectors
+  - How can I create and manage projects?
+
+---
+
+
+## [2026-05-01T21:41:45.109377+05:30] TICKET #25/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - How to accept Visa Traveller's Cheques
+  - PYB – Data Security
+  - Visa Traveller's Cheques for Consumers
+
+---
+
+
+## [2026-05-01T21:42:01.405807+05:30] TICKET #20/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Public Vulnerability Reporting
+  - Model Safety Bug Bounty Program
+  - Real-time cyber safeguards on Claude
+
+---
+
+
+## [2026-05-01T21:42:22.576654+05:30] TICKET #23/29
+
+Classification:
+  Status: replied
+  Product Area: privacy
+  Request Type: product_issue
+
+Retrieved chunks:
+  - I would like to input sensitive data into my chats with Claude. Who can view my 
+  - FAQs on Using Claude for Education at Your University
+  - Adapting to new model personas after deprecations
+
+---
+
+
+## [2026-05-01T21:42:23.826577+05:30] TICKET #21/29
+
+Classification:
+  Status: replied
+  Product Area: privacy
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Does Anthropic crawl data from the web, and how can site owners block the crawle
+  - Report a Concern: Australian DIS Standard compliance
+  - Using Claude in Chrome Safely
+
+---
+
+
+## [2026-05-01T21:42:28.145705+05:30] TICKET #26/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Claude Code FAQ
+  - Use Claude for Excel, PowerPoint, and Word with third-party platforms
+  - Troubleshoot Claude Code installation and authentication
+
+---
+
+
+## [2026-05-01T21:42:30.609554+05:30] TICKET #27/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - HackerRank SkillUp
+  - Create a Test Creating a Test Additional test actions
+  - Accessing SkillUp Employer Platform
+
+---
+
+
+## [2026-05-01T21:42:56.813419+05:30] TICKET #28/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Early Talent
+  - Set up the Claude LTI in Canvas by Instructure
+  - Claude Help Center
+
+---
+
+
+## [2026-05-01T21:43:04.490803+05:30] TICKET #22/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Visa Travel Services | Visa Travel Credit Card Support
+  - PYB – Fraud Prevention
+  - Visa Traveller's Cheques for Consumers
+
+---
+
+
+## [2026-05-01T21:43:06.901194+05:30] TICKET #29/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Visa Consumer Support
+  - PYB – Fraud Prevention
+  - Visa Credit Card Rules & Regulations
+
+---
+
+
+## [2026-05-01T21:47:02.392823+05:30] SESSION START — Agent Run
+
+Agent: support-triage-agent
+Repo Root: c:\Users\rishu\OneDrive\Desktop\support_tickets
+Language: py
+Time: 2026-05-01T21:47:02.392838+05:30
+
+
+## [2026-05-01T21:47:39.813373+05:30] TICKET #5/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Claude Code: Common developer use cases
+  - Using Claude with iOS Apps
+  - My prompt isn’t giving me a helpful answer.
+
+---
+
+
+## [2026-05-01T21:47:43.121653+05:30] TICKET #1/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Use Google Workspace connectors
+  - Manage members on Team and Enterprise plans
+  - Set up role-based permissions on Enterprise plans
+
+---
+
+
+## [2026-05-01T21:47:43.460241+05:30] TICKET #4/29
+
+Classification:
+  Status: replied
+  Product Area: community
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Subscriptions, Payments, and Billing FAQs Mock interviews Subscription plans
+  - Purchase Mock Interview Credits
+  - AI Fluency Mock Interview Prerequisites Taking AI Fluency mock interview Ending 
+
+---
+
+
+## [2026-05-01T21:47:44.472938+05:30] TICKET #3/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - PYB – Fraud Prevention
+  - Visa Credit Card Rules & Regulations
+  - Visa Consumer Support
+
+---
+
+
+## [2026-05-01T21:48:14.905607+05:30] TICKET #9/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Claude Code FAQ
+  - Using Claude with iOS Apps
+  - Using Claude with Android Apps
+
+---
+
+
+## [2026-05-01T21:48:16.810602+05:30] TICKET #6/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Early Talent
+  - Onboarding Candidates
+  - Best Practices to Maintain Test Integrity
+
+---
+
+
+## [2026-05-01T21:48:20.588635+05:30] TICKET #8/29
+
+Classification:
+  Status: replied
+  Product Area: screen
+  Request Type: product_issue
+
+Retrieved chunks:
+  - What is the External Researcher Access Program?
+  - Using Claude in Chrome Safely
+  - Claude in Chrome Permissions Guide
+
+---
+
+
+## [2026-05-01T21:48:22.826602+05:30] TICKET #7/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - What is the External Researcher Access Program?
+  - Anthropic's AI for Science Program
+  - Enabling Outcome Data and Public Link with Greenhouse
+
+---
+
+
+## [2026-05-01T21:48:33.788223+05:30] TICKET #11/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Early Talent
+  - Introduction to HackerRank Interviews
+  - Professional Hire
+
+---
+
+
+## [2026-05-01T21:48:36.654262+05:30] TICKET #2/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Greenhouse-HackerRank Integration FAQs API Token and Access Tests and Interviews
+  - Mitigating Candidate Drop-Off
+  - Workday - HackerRank Tests User Guide
+
+---
+
+
+## [2026-05-01T21:48:45.821415+05:30] TICKET #12/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Using the Candid Connector in Claude
+  - Using Claude with iOS Apps
+  - Using Claude with Android Apps
+
+---
+
+
+## [2026-05-01T21:48:46.600920+05:30] TICKET #13/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - How can I create and manage projects?
+  - Using Claude with iOS Apps
+  - HackerRank Interview and Google Calendar Integration
+
+---
+
+
+## [2026-05-01T21:49:17.020714+05:30] TICKET #14/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Pause Subscription
+  - How do I cancel my paid Claude subscription?
+  - Onboarding Candidates
+
+---
+
+
+## [2026-05-01T21:49:22.886981+05:30] TICKET #10/29
+
+Classification:
+  Status: escalated
+  Product Area: screen
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Mitigating Candidate Drop-Off
+  - What is the External Researcher Access Program?
+  - Using Claude with iOS Apps
+
+---
+
+
+## [2026-05-01T21:49:30.905968+05:30] TICKET #17/29
+
+Classification:
+  Status: replied
+  Product Area: community
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Create a Resume with Resume Builder
+  - Introduction to HackerRank Community
+  - Search and Apply for Jobs
+
+---
+
+
+## [2026-05-01T21:49:33.893139+05:30] TICKET #15/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Claude Code champion kit
+  - Get started with Claude Cowork
+  - I’m planning to launch a product using the Claude API. What steps should I take 
+
+---
+
+
+## [2026-05-01T21:49:36.044206+05:30] TICKET #18/29
+
+Classification:
+  Status: replied
+  Product Area: community
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Certifications FAQs
+  - Getting started with Claude for Nonprofits
+  - SkillUp Employee Platform
+
+---
+
+
+## [2026-05-01T21:49:43.884329+05:30] TICKET #19/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Dispute Resolution
+  - Visa Consumer Support
+  - Requesting a refund for a paid Claude plan
+
+---
+
+
+## [2026-05-01T21:50:13.691926+05:30] TICKET #20/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Public Vulnerability Reporting
+  - Model Safety Bug Bounty Program
+  - Real-time cyber safeguards on Claude
+
+---
+
+
+## [2026-05-01T21:50:13.736729+05:30] TICKET #24/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: invalid
+
+Retrieved chunks:
+  - Give Claude context: CLAUDE.md and better prompts
+  - Use Google Workspace connectors
+  - How can I create and manage projects?
+
+---
+
+
+## [2026-05-01T21:50:13.798331+05:30] TICKET #25/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - How to accept Visa Traveller's Cheques
+  - PYB – Data Security
+  - Visa Traveller's Cheques for Consumers
+
+---
+
+
+## [2026-05-01T21:50:17.757882+05:30] TICKET #22/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Visa Travel Services | Visa Travel Credit Card Support
+  - PYB – Fraud Prevention
+  - Visa Traveller's Cheques for Consumers
+
+---
+
+
+## [2026-05-01T21:50:21.650680+05:30] TICKET #16/29
+
+Classification:
+  Status: escalated
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Visa Consumer Support
+  - Visa Traveller's Cheques for Consumers
+  - Identity verification on Claude
+
+---
+
+
+## [2026-05-01T21:50:25.537717+05:30] TICKET #21/29
+
+Classification:
+  Status: replied
+  Product Area: privacy
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Does Anthropic crawl data from the web, and how can site owners block the crawle
+  - Report a Concern: Australian DIS Standard compliance
+  - Using Claude in Chrome Safely
+
+---
+
+
+## [2026-05-01T21:50:35.890115+05:30] TICKET #27/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - HackerRank SkillUp
+  - Create a Test Creating a Test Additional test actions
+  - Accessing SkillUp Employer Platform
+
+---
+
+
+## [2026-05-01T21:50:37.144993+05:30] TICKET #23/29
+
+Classification:
+  Status: replied
+  Product Area: privacy
+  Request Type: product_issue
+
+Retrieved chunks:
+  - I would like to input sensitive data into my chats with Claude. Who can view my 
+  - FAQs on Using Claude for Education at Your University
+  - Adapting to new model personas after deprecations
+
+---
+
+
+## [2026-05-01T21:50:55.461638+05:30] TICKET #29/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Visa Consumer Support
+  - PYB – Fraud Prevention
+  - Visa Credit Card Rules & Regulations
+
+---
+
+
+## [2026-05-01T21:51:00.066449+05:30] TICKET #26/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Claude Code FAQ
+  - Use Claude for Excel, PowerPoint, and Word with third-party platforms
+  - Troubleshoot Claude Code installation and authentication
+
+---
+
+
+## [2026-05-01T21:52:01.214464+05:30] TICKET #28/29
+
+Classification:
+  Status: replied
+  Product Area: general_support
+  Request Type: product_issue
+
+Retrieved chunks:
+  - Early Talent
+  - Set up the Claude LTI in Canvas by Instructure
+  - Claude Help Center
+
+---
+
+
+## [2026-05-01T21:52:01.265157+05:30] RUN COMPLETE
+
+Total tickets: 29
+Replied: 20
+Escalated: 9
+Time: 298.9s
+Output: c:\Users\rishu\OneDrive\Desktop\support_tickets\support_tickets\output.csv
+

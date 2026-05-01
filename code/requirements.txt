@@ -1,0 +1,5 @@
+openai==2.33.0
+scikit-learn==1.8.0
+rich==14.3.3
+python-dotenv==1.2.1
+rank_bm25==0.2.2
